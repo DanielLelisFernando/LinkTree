@@ -1,4 +1,4 @@
-# http-daniellelisfernando.github.io-
+# http-feitoscomamor-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,12 +23,6 @@
         <a href="https://api.whatsapp.com/send?phone=5531992720833" target="_blank"><img src = "https://img.icons8.com/3d-fluency/100/whatsapp.png"
            alt="logo wpp"></a>
         </li>
-        <!--<li>
-        <a href="https://www.shopee.com.br" target="_blank"><img src="https://img.icons8.com/fluency/2x/shopee.png"
-           alt="logo shopee"></a>
-        <a href="https://www.google.com" target="_blank"><img src="https://img.icons8.com/fluency/2x/google-logo.png"
-           alt="logo google"></a>
-        </li>-->
         <li>
         <a href="https://www.facebook.com/andreia.pinheiro.9849912" target="_blank"><img src="https://img.icons8.com/fluency/2x/facebook-new.png"
            alt="logo facebook"></a>
@@ -46,9 +40,3 @@
     </p>
 </footer>
 </html>
-
-
-<!--    TAG PARA INSERIR IMAGEM
-        <img src = "https://img.icons8.com/fluency/2x/google-logo.png" target="_blank"  
-        alt = "logo google">
--->
